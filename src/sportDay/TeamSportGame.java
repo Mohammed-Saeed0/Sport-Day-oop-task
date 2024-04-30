@@ -1,6 +1,5 @@
 package sportDay;
 
-// sportDay.TeamSportGame class extending sportDay.Game
 class TeamSportGame extends Game { // inheritance
 
     // Constructor that match the constructor in the super or parent
